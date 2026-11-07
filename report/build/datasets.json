@@ -1,0 +1,136 @@
+{
+ "closest": [
+  {
+   "file": "testcase1.txt",
+   "n": 1450,
+   "xr": "0–4992",
+   "yr": "0–900",
+   "sample": "(0, 0)"
+  },
+  {
+   "file": "testcase2.txt",
+   "n": 1450,
+   "xr": "0–4992",
+   "yr": "0–900",
+   "sample": "(0, 0)"
+  },
+  {
+   "file": "testcase3.txt",
+   "n": 1450,
+   "xr": "0–4992",
+   "yr": "0–900",
+   "sample": "(0, 0)"
+  },
+  {
+   "file": "testcase4.txt",
+   "n": 1450,
+   "xr": "0–4992",
+   "yr": "0–900",
+   "sample": "(0, 0)"
+  },
+  {
+   "file": "testcase5.txt",
+   "n": 10,
+   "xr": "0–100",
+   "yr": "0–50",
+   "sample": "(0, 0)"
+  },
+  {
+   "file": "testcase6.txt",
+   "n": 10,
+   "xr": "1–70",
+   "yr": "5–60",
+   "sample": "(1, 10)"
+  },
+  {
+   "file": "testcase7.txt",
+   "n": 10,
+   "xr": "5–50",
+   "yr": "2–20",
+   "sample": "(5, 2)"
+  },
+  {
+   "file": "testcase8.txt",
+   "n": 200,
+   "xr": "1–1000",
+   "yr": "10–998",
+   "sample": "(818, 237)"
+  },
+  {
+   "file": "testcase9.txt",
+   "n": 500,
+   "xr": "5.77–9985.76",
+   "yr": "25.68–9981.56",
+   "sample": "(7680.66, 7222.98)"
+  },
+  {
+   "file": "testcase10.txt",
+   "n": 1000,
+   "xr": "59–99924",
+   "yr": "197–99964",
+   "sample": "(11822, 21484)"
+  }
+ ],
+ "karatsuba": [
+  {
+   "file": "karatsuba_input_1.txt",
+   "digits": 30,
+   "n10": "9616764246",
+   "m10": "8491345637"
+  },
+  {
+   "file": "karatsuba_input_2.txt",
+   "digits": 100,
+   "n10": "7113433005",
+   "m10": "7364842587"
+  },
+  {
+   "file": "karatsuba_input_3.txt",
+   "digits": 200,
+   "n10": "5981599768",
+   "m10": "7266285474"
+  },
+  {
+   "file": "karatsuba_input_4.txt",
+   "digits": 300,
+   "n10": "5184577262",
+   "m10": "1938564935"
+  },
+  {
+   "file": "karatsuba_input_5.txt",
+   "digits": 400,
+   "n10": "3604460632",
+   "m10": "5880006389"
+  },
+  {
+   "file": "karatsuba_input_6.txt",
+   "digits": 500,
+   "n10": "1806678079",
+   "m10": "4130180582"
+  },
+  {
+   "file": "karatsuba_input_7.txt",
+   "digits": 600,
+   "n10": "7639779603",
+   "m10": "6378205419"
+  },
+  {
+   "file": "karatsuba_input_8.txt",
+   "digits": 700,
+   "n10": "1049434891",
+   "m10": "2325710997"
+  },
+  {
+   "file": "karatsuba_input_9.txt",
+   "digits": 800,
+   "n10": "3626249881",
+   "m10": "4211369941"
+  },
+  {
+   "file": "karatsuba_input_10.txt",
+   "digits": 900,
+   "n10": "6033475997",
+   "m10": "1144622349"
+  }
+ ]
+}
